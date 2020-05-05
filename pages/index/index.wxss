@@ -1,0 +1,12 @@
+/**index.wxss**/
+page{
+  background-color: blanchedalmond;
+}
+swiper{
+  height: 320rpx;
+}
+
+swiper image{
+  width: 750rpx;
+  height: 320rpx;
+}
